@@ -7,17 +7,17 @@
     "id": "did:web:werify-eu.github.io:test-credential",
     "verificationMethod": [
         {
-            "id": "did:web:werify-eu.github.io:test-credential#cf882ecf369d83eefb9fc01457b15876627ec366bda60b49525d448d6a2c246d",
+            "id": "did:web:werify-eu.github.io:test-credential#22487193811d36ec028692815c58ebf7aa5b5adb89124d73016d6c2edda3e68e",
             "type": "EcdsaSecp256k1VerificationKey2019",
             "controller": "did:web:werify-eu.github.io:test-credential",
-            "publicKeyHex": "cf882ecf369d83eefb9fc01457b15876627ec366bda60b49525d448d6a2c246d"
+            "publicKeyHex": "22487193811d36ec028692815c58ebf7aa5b5adb89124d73016d6c2edda3e68e"
         }
     ],
     "authentication": [
-        "did:web:werify-eu.github.io:test-credential#cf882ecf369d83eefb9fc01457b15876627ec366bda60b49525d448d6a2c246d"
+        "did:web:werify-eu.github.io:test-credential#22487193811d36ec028692815c58ebf7aa5b5adb89124d73016d6c2edda3e68e"
     ],
     "assertionMethod": [
-        "did:web:werify-eu.github.io:test-credential#cf882ecf369d83eefb9fc01457b15876627ec366bda60b49525d448d6a2c246d"
+        "did:web:werify-eu.github.io:test-credential#22487193811d36ec028692815c58ebf7aa5b5adb89124d73016d6c2edda3e68e"
     ],
     "keyAgreement": [],
     "service": []
