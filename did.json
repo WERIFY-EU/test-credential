@@ -1,23 +1,22 @@
 {
     "@context": [
         "https://www.w3.org/ns/did/v1",
-        "https://w3id.org/security/v2",
-        "https://w3id.org/security/suites/secp256k1recovery-2020/v2"
+        "https://w3id.org/security/v2"
     ],
     "id": "did:web:werify-eu.github.io:test-credential",
     "verificationMethod": [
         {
-            "id": "did:web:werify-eu.github.io:test-credential#0414d1f19d9805cd0ba59028df6662fda119a713dad56102aae21dbb02e7b76b8c431802c744d31ce86e21aa87d21898764e423449a1a9612030bab89a1ce2afd2",
-            "type": "EcdsaSecp256k1VerificationKey2019",
+            "id": "did:web:werify-eu.github.io:test-credential#04a993ee74cf18e2cf899dedf99af6a7242e0f030a3f87193f31685da4fb43228c933e7f1ac89379a689e4f31edf737e8adeca70c4258d0f194af8c7f9fdf02bd8",
+            "type": "Ed25519VerificationKey2018",
             "controller": "did:web:werify-eu.github.io:test-credential",
             "publicKeyHex": "77546deaad9d82756c7779381a2ed45be9bed50909f6ba111d2ea6fdd5b77753"
         }
     ],
     "authentication": [
-        "did:web:werify-eu.github.io:test-credential#0414d1f19d9805cd0ba59028df6662fda119a713dad56102aae21dbb02e7b76b8c431802c744d31ce86e21aa87d21898764e423449a1a9612030bab89a1ce2afd2"
+        "did:web:werify-eu.github.io:test-credential#04a993ee74cf18e2cf899dedf99af6a7242e0f030a3f87193f31685da4fb43228c933e7f1ac89379a689e4f31edf737e8adeca70c4258d0f194af8c7f9fdf02bd8"
     ],
     "assertionMethod": [
-        "did:web:werify-eu.github.io:test-credential#0414d1f19d9805cd0ba59028df6662fda119a713dad56102aae21dbb02e7b76b8c431802c744d31ce86e21aa87d21898764e423449a1a9612030bab89a1ce2afd2"
+        "did:web:werify-eu.github.io:test-credential#04a993ee74cf18e2cf899dedf99af6a7242e0f030a3f87193f31685da4fb43228c933e7f1ac89379a689e4f31edf737e8adeca70c4258d0f194af8c7f9fdf02bd8"
     ],
     "keyAgreement": [],
     "service": []
