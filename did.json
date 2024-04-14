@@ -10,7 +10,7 @@
             "id": "did:web:werify-eu.github.io:test-credential#0414d1f19d9805cd0ba59028df6662fda119a713dad56102aae21dbb02e7b76b8c431802c744d31ce86e21aa87d21898764e423449a1a9612030bab89a1ce2afd2",
             "type": "EcdsaSecp256k1VerificationKey2019",
             "controller": "did:web:werify-eu.github.io:test-credential",
-            "publicKeyHex": "0414d1f19d9805cd0ba59028df6662fda119a713dad56102aae21dbb02e7b76b8c431802c744d31ce86e21aa87d21898764e423449a1a9612030bab89a1ce2afd2"
+            "publicKeyHex": "77546deaad9d82756c7779381a2ed45be9bed50909f6ba111d2ea6fdd5b77753"
         }
     ],
     "authentication": [
