@@ -9,7 +9,7 @@
             "id": "did:web:werify-eu.github.io:test-credential#04a993ee74cf18e2cf899dedf99af6a7242e0f030a3f87193f31685da4fb43228c933e7f1ac89379a689e4f31edf737e8adeca70c4258d0f194af8c7f9fdf02bd8",
             "type": "Ed25519VerificationKey2018",
             "controller": "did:web:werify-eu.github.io:test-credential",
-            "publicKeyHex": "04cd91ae277f1f91282d50b8f1e659947a42b6485551e74fb2f924befe5e02b3daceacec695fc67b2a3d753973f859b3b02c67b9db826e209b18e80698b6040846"
+            "publicKeyHex": "7cd5bda40e420fa9ac37ca56e6107000be28b9bc2abfe621a9d609942ca68ffe"
         }
     ],
     "authentication": [
